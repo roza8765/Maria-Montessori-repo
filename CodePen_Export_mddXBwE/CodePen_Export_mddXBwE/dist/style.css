@@ -1,0 +1,46 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+
+
+ 
+  padding: 10px;
+  right:30px;
+ 
+  
+}
+#img-caption{
+  color:blue;
+  font-family:tahoma;
+ 
+}
+#title{
+  color:red;
+font-family:tahoma;
+}
+#tribute-link{
+  color:green;
+}
+#tribute-info{
+  color:green;
+}
+
+body{
+  text-align:center;
+  font-family:sans-serif;
+ 
+  background:pink;
+}
+footer{
+ color: blue;
+  border: solid grey;
+   border-width: 4px;
+    border-radius: 30px 0px 30px 0px ;
+}
+#list{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  font-size:18px;
+}
